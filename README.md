@@ -1,2 +1,2 @@
 # toy_ds_project
-Learning version control for data science.
+Project Creation date: 2/6/2023
